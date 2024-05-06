@@ -31,6 +31,7 @@ export default defineConfig({
         text: "Práctica",
         items: [
           { text: "01 - Primer ejercicio", link: "/exercises/exercise-01" },
+          { text: "02 - Lista de tareas", link: "/exercises/exercise-02" },
         ],
       },
     ],

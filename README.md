@@ -4,6 +4,8 @@
 
 ## Contenido del Repositorio
 
+- **Introducción:** En la carpeta `00-introduction`, tenemos un proyecto base a modo de ejemplo.
+
 - **Contador:** En la carpeta `01-counter`, encontrarán la base de un ejercicio que les ayudará a entender cómo utilizar Vue.js para crear un contador interactivo. ¡Es un excelente punto de partida para sumergirse en el mundo de Vue!
 
 - **Lista de Tareas:** En la carpeta `02-ToDo`, encontrarán la base de otro ejercicio que les permitirá construir una aplicación de lista de tareas utilizando Vue.js. ¡Es una oportunidad perfecta para practicar y consolidar sus conocimientos!

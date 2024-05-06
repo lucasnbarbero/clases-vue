@@ -22,7 +22,10 @@ export default defineConfig({
       },
       {
         text: "Teoría",
-        items: [{ text: "Componentes", link: "/components" }],
+        items: [
+          { text: "Componentes", link: "/components" },
+          { text: "Directivas", link: "/directives" },
+        ],
       },
       {
         text: "Práctica",

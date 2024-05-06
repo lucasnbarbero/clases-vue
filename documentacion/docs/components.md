@@ -65,9 +65,9 @@ export default {
 </template>
 ```
 
-## Comunicación entre componentes
+Veamos como podemos hacer que dos componentes se comuniquen entre sí
 
-### Props
+## Props - Comunicación
 
 Cuando estamos haciendo, por ejemplo, un blog, vamos a queres que todas las publicaciones del blog compartan el mismo diseño visual, pero con un contenido distinto. Para esto se utilizan las props.
 
@@ -103,7 +103,7 @@ export default {
 </template>
 ```
 
-### Eventos
+## Eventos - Comunicación
 
 Los componentes también pueden comunicarse entre sí por medio de el uso de eventos. Los eventos son señales que un componente puede emitir y otros componentes pueden escuchar y responder a estas. Esto hace qeu la comunicacion sea efectiva sin la necesidad de conocer los detalles de la implementación interna.
 
@@ -145,7 +145,7 @@ export default {
 </template>
 ```
 
-### Slots
+## Slots - Comunicación
 
 Los slots son otra forma de comunicación entre componentes que nos permite pasar contenido HTML o incluso otros componentes. Esto permite una mayor flexibilidad y reutilización de los componentes ya que el componente padre puede controlar el diseño y la estructura que se muestra dentro del componente hijo.
 
@@ -191,3 +191,9 @@ export default {
   </Button>
 </template>
 ```
+
+## Ejercicio 🥳
+
+Vamos a hacer nuestro primer ejercicio
+
+[Ir al ejercicio](./exercise-01.md)

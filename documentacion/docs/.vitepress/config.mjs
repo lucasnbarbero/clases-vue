@@ -22,8 +22,12 @@ export default defineConfig({
       },
       {
         text: "Teoría",
+        items: [{ text: "Componentes", link: "/components" }],
+      },
+      {
+        text: "Práctica",
         items: [
-          { text: "Componentes", link: "/components" },
+          { text: "01 - Primer ejercicio", link: "/exercises/exercise-01" },
         ],
       },
     ],

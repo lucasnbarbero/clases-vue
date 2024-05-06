@@ -68,4 +68,16 @@ npm run dev
 ├── vite.config.js
 ```
 
-
+  - `node_modules` Es la carpeta que contiene todas las dependencias de Node.js instaladas en el proyecto.
+  - `public` Esta carpeta contiene los archivos públicos accesibles desde la raís del servidor.
+  - `src` Aqui tenemos el código fuente de la aplicacion
+    - `assets` En esta carpeta vamos a situar todos los archivos estáticos, como imágenes, estilos, fuentes, etc.
+    - `components` Acá vamos a crear los componentes reutilizables.
+    - `App.vue` componente raíz de la aplicacion, donde tenemos la estructura básica de la interfaz.
+    - `main.js` punto de entrada de nuestro desarrollo, aqúi se crea la instancia de Vue y se montan en el elemento HTML principal de la página.
+    - `style.css` contiene los estilos
+  - `.gitignore` esuna lista de archivos y carpetas que se deben ignorar cuando se utiliza Git
+  - `index.html` nuestro archivo HTML donde se va a montar la apliación
+  - `package.json` configuración de npm para el proyecto. Contiene la información sobre las dependencias, scripts de npm, y demás.
+  - `README.md` documentación del proyecto, que puede incluir instrucciones de instalación, descripciones de la aplicación y cualquier otra información relevante para los desarrolladores.
+  - `vite.config.js` archivo de configuración de Vite para el proyecto. Contiene configuraciones personalizadas para el entorno de desarrollo, como ajustes de servidor y manipulación de archivos estáticos.

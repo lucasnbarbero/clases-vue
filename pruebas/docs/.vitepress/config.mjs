@@ -14,10 +14,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Teoría",
+        text: "Introducción",
         items: [
           { text: "Empecemos", link: "/introduction" },
           { text: "Inicio de un proyecto", link: "/getting-started" },
+        ],
+      },
+      {
+        text: "Teoría",
+        items: [
+          { text: "Componentes", link: "/components" },
         ],
       },
     ],

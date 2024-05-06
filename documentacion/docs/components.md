@@ -196,4 +196,4 @@ export default {
 
 Vamos a hacer nuestro primer ejercicio
 
-[Ir al ejercicio](./exercices/exercise-01.md)
+[Ir al ejercicio](./exercises/exercise-01.md)

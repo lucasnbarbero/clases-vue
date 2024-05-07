@@ -17,6 +17,7 @@ export default defineConfig({
         text: "Introducción",
         items: [
           { text: "Empecemos", link: "/introduction" },
+          { text: "Instalación de Node.js", link: "/node" },
           { text: "Inicio de un proyecto", link: "/getting-started" },
         ],
       },

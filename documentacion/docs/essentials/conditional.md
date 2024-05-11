@@ -34,6 +34,20 @@ El elemento `v-else-if`, como su nombre indica, sirve como un bloque else if par
 
 Al igual que `v-else`, un elemento `v-else-if` debe seguir inmediatamente a un elemento `v-if` o `v-else-if`.
 
+## `v-if` en `<template>`
+
+Como `v-if` es una directiva, tiene que estar unida a un solo elemento. ¿Pero que pasa si queremos activar más de un elemento? En este caso podemos usar `v-if` en el elemento `<template>`, que sirve de envoltura invisible. El resultado final del renderizado no incluirá el elemento `<template>`
+
+```html
+<template v-if="ok">
+  <h1>Título</h1>
+  <p>Párrafo 1</p>
+  <p>Párrafo 2</p>
+</template>
+```
+
+`v-else` y `v-else-if` también pueden utilizarse en `<template>`
+
 ## `v-show`
 
 Otra opción para mostrar condicionalmente un elemento es la directiva v-show. El uso es prácticamente el mismo:

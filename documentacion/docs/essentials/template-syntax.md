@@ -102,4 +102,4 @@ Aquí el argumento es el nombre del evento a escuchar, `:click`. `v-on` también
 
 ## Ejercicio 🥳
 
-Vayamos al [Primer ejercicio](./exercises/exercise-01.md) para comenzar a aplicar lo que aprendimos.
+Vayamos al [Primer ejercicio](../exercises/exercise-01.md) para comenzar a aplicar lo que aprendimos.

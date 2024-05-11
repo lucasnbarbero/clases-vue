@@ -30,6 +30,7 @@ export default defineConfig({
           },
           { text: "Sintaxis de plantilla", link: "/template-syntax" },
           { text: "Propiedades computadas", link: "/computed" },
+          { text: "Renderizado condicional", link: "/conditional" },
         ],
       },
       {

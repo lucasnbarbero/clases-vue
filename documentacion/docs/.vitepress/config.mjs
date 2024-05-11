@@ -22,10 +22,9 @@ export default defineConfig({
         ],
       },
       {
-        text: "Teoría",
+        text: "Esenciales",
         items: [
-          { text: "Componentes", link: "/components" },
-          { text: "Directivas", link: "/directives" },
+          { text: "Fundamentos de reactividad", link: "/reactivity-fundamentals" },
         ],
       },
       {

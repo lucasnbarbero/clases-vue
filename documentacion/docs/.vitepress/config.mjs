@@ -26,11 +26,11 @@ export default defineConfig({
         items: [
           {
             text: "Fundamentos de reactividad",
-            link: "/reactivity-fundamentals",
+            link: "/essentials/reactivity-fundamentals",
           },
-          { text: "Sintaxis de plantilla", link: "/template-syntax" },
-          { text: "Propiedades computadas", link: "/computed" },
-          { text: "Renderizado condicional", link: "/conditional" },
+          { text: "Sintaxis de plantilla", link: "/essentials/template-syntax" },
+          { text: "Propiedades computadas", link: "/essentials/computed" },
+          { text: "Renderizado condicional", link: "/essentials/conditional" },
         ],
       },
       {

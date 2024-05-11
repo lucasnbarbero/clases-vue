@@ -1,7 +1,3 @@
-<script setup>
-  import Alternate from '../components/conditional/Alternate.vue'
-</script>
-
 # Renderizado condicional
 
 ## `v-if`
@@ -22,9 +18,6 @@ Puedes usar la directiva `v-else` para indicar un else para `v-if`:
 <h1 v-if="awesome">Vue es increíble!</h1>
 <h1 v-else>Oh no 😢</h1>
 ```
-
-**Ejemplo**
-<Alternate />
 
 Un elemento `v-else` debe seguir inmediatamente a un elemento `v-if` o a un elemento `v-else-if`. De lo contraron no será reconocido.
 

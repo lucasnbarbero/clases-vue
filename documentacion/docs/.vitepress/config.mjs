@@ -31,6 +31,7 @@ export default defineConfig({
           { text: "Sintaxis de plantilla", link: "/essentials/template-syntax" },
           { text: "Propiedades computadas", link: "/essentials/computed" },
           { text: "Renderizado condicional", link: "/essentials/conditional" },
+          { text: "Renderizado de listas", link: "/essentials/list" },
         ],
       },
       {

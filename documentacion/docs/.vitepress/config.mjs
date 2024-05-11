@@ -24,7 +24,11 @@ export default defineConfig({
       {
         text: "Esenciales",
         items: [
-          { text: "Fundamentos de reactividad", link: "/reactivity-fundamentals" },
+          {
+            text: "Fundamentos de reactividad",
+            link: "/reactivity-fundamentals",
+          },
+          { text: "Sintaxis de plantilla", link: "/template-syntax" },
           { text: "Propiedades computadas", link: "/computed" },
         ],
       },

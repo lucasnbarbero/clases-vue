@@ -28,8 +28,15 @@ export default defineConfig({
             text: "Fundamentos de reactividad",
             link: "/essentials/reactivity-fundamentals",
           },
-          { text: "Sintaxis de plantilla", link: "/essentials/template-syntax" },
+          {
+            text: "Sintaxis de plantilla",
+            link: "/essentials/template-syntax",
+          },
           { text: "Propiedades computadas", link: "/essentials/computed" },
+          {
+            text: "Vinculación con clases y estilos",
+            link: "/essentials/class-and-style",
+          },
           { text: "Renderizado condicional", link: "/essentials/conditional" },
           { text: "Renderizado de listas", link: "/essentials/list" },
         ],

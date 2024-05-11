@@ -75,8 +75,8 @@ http
 
 Ahora podemos chequear en nuestro navegador las siguientes urls:
 
-- http://localhost:3000
-- http://localhost:3000/otro-link
+- `http://localhost:3000`
+- `http://localhost:3000/otro-link`
 
 <br>
 
@@ -123,5 +123,5 @@ node app.js
 
 Ahora podemos chequear en nuestro navegador las siguientes urls y obtendremos el mismo resultado:
 
-- http://localhost:3000
-- http://localhost:3000/otro-link
+- `http://localhost:3000`
+- `http://localhost:3000/otro-link`

@@ -99,3 +99,7 @@ Otro ejemplo es la directiva `v-on`, que escucha eventos del DOM:
 ```
 
 Aquí el argumento es el nombre del evento a escuchar, `:click`. `v-on` también tiene una abreviatura correspondiente, como lo vimos en el ejemplo.
+
+## Ejercicio 🥳
+
+Vayamos al [Primer ejercicio](./exercises/exercise-01.md) para comenzar a aplicar lo que aprendimos.

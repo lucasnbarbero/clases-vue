@@ -25,6 +25,7 @@ export default defineConfig({
         text: "Esenciales",
         items: [
           { text: "Fundamentos de reactividad", link: "/reactivity-fundamentals" },
+          { text: "Propiedades computadas", link: "/computed" },
         ],
       },
       {

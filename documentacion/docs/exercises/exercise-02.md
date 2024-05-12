@@ -26,6 +26,6 @@ Crear una aplicación web simple para gestionar una lista de tareas. La aplicaci
 
 ### ¡Trabajemos!
 
-En este ejercicio vamos a aplicar todos los conceptos aprendidos sobre las distintas directivas que nos provee Vue.js. **Recuerda** aplicar el uso de los componentes reutilizables.
+En este ejercicio vamos a aplicar todos los conceptos aprendidos sobre las distintas directivas que nos provee Vue.js.
 
 ¡Vamos! 💪🏽

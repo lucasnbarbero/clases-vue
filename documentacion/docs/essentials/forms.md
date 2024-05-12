@@ -115,3 +115,7 @@ export default {
 :::info
 Para más información y detalles puedes consultar en la [documentación oficial](https://vuejs.org/guide/essentials/forms.html)
 :::
+
+## Ejercicio 💣
+
+Vamos a realizar un nuevo [ejercicio](../exercises/exercise-02.md) para continuar trabajando!

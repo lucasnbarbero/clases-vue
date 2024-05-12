@@ -43,6 +43,7 @@ export default defineConfig({
             text: "Vinculación de entradas de formulario",
             link: "/essentials/forms",
           },
+          { text: "Hooks del ciclo de vida", link: "/essentials/lifecycle" },
         ],
       },
       {

@@ -39,6 +39,10 @@ export default defineConfig({
           },
           { text: "Renderizado condicional", link: "/essentials/conditional" },
           { text: "Renderizado de listas", link: "/essentials/list" },
+          {
+            text: "Vinculación de entradas de formulario",
+            link: "/essentials/forms",
+          },
         ],
       },
       {

@@ -44,6 +44,10 @@ export default defineConfig({
             link: "/essentials/forms",
           },
           { text: "Hooks del ciclo de vida", link: "/essentials/lifecycle" },
+          {
+            text: "Fundamento de componentes",
+            link: "/essentials/components-basics",
+          },
         ],
       },
       {

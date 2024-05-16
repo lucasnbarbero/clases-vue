@@ -51,6 +51,12 @@ export default defineConfig({
         ],
       },
       {
+        text: "Proyecto real",
+        items: [
+          { text: "Creación de un proyecto", link: "/real-project/intro" },
+        ],
+      },
+      {
         text: "Práctica",
         items: [
           { text: "01 - Primer ejercicio", link: "/exercises/exercise-01" },
